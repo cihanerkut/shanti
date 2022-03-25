@@ -1,4 +1,4 @@
-# nanokrebs
+# ShaNTi
 A Nextflow pipeline to process ONT raw data from cDNA sequencing experiments. This workflow is designed and will be developed in the context of cancer research.
 
 # Before you begin
