@@ -1,0 +1,8 @@
+
+.nextflow/*
+data/*
+reports/*
+results/*
+work/*
+.nextflow.log*
+runs.txt
