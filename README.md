@@ -52,3 +52,7 @@ The genome FASTA and annotation GTF files must match. You can get matching files
 ## Questions and comments
 
 Please create issues for your questions, comments, bug reports, feature requests, etc.
+
+## Citation
+
+Shallow nanopore RNA sequencing enables transcriptome profiling for precision cancer medicine. Andreas Mock, Melissa Braun, Claudia Scholl, Stefan Fröhling, Cihan Erkut. bioRxiv 2022.05.31.494109; doi: https://doi.org/10.1101/2022.05.31.494109
